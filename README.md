@@ -33,5 +33,5 @@
     - Register ve login işlemleri methodlar kullanılarak
 - [ ] Sınıfların tasarlanması
 - [ ] Sınıfların tasarlanması
-- [ ] Sınıfların tasarlanması
+- [ ] Sınıfların tasarlanması 
  
